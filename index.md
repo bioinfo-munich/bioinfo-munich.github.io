@@ -10,7 +10,7 @@ But bioinformatics has no limits, and therefore you will also find here articles
 
 ## Mailing list ##
 Our mailing list is now open, and you can 
-[register there]: https://lists.lrz.de/mailman/listinfo/bioinfo
+[register there](https://lists.lrz.de/mailman/listinfo/bioinfo)
 Please read the basics rules before your registration.
 
 ## Who are we? ##
