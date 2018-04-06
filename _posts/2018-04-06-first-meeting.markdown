@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "First meeting"
 date:   2018-04-06 16:07:25 +0200
 categories: jekyll update
