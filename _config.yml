@@ -23,7 +23,7 @@ github_username:  bioinfo-munich
 
 # Build settings
 markdown: kramdown
-theme: midnight
+theme: hacker #minimal hacker leap-day midnight slate primer architect tactile dinky merlot cayman modernist time-machine
 plugins:
   - jekyll-feed
 
