@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home"
+title: "Registration"
 ---
 
 On this website, you will mainly find some news about bioinformatic life in Munich.
