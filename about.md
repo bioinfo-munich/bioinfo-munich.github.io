@@ -18,4 +18,4 @@ E-Mails allows fast communication.
 It is a very convenient way to interract from anywhere on the planet, at (almost) no costs, while keeping archive easily.
 
 ## Why join us during our events? ##
-Life without interractions would be sad.
+Life without interractions would be sad. It is so much nicer to organise some meetup!
