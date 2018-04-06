@@ -13,6 +13,7 @@ Please read the basics rules before your registration.
 Confirmation e-mail may arrive in your spam box.
 Once registration is completed, you can post a message to everyone writing to bioinfo _at_ lists.lrz.de
 Avoid _spam_ to avoid _ban_.
+In case of question, contact: bioinfo-owner@lists.lrz.de
 
 ## Who are we? ##
 We are just normal people, trust me.
