@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Who are we? ##
+We are just normal people, trust me.
+We come from different backgroud that include biology, math, informatics, software development and a lot of other fields.
+We are mainly from Munich; this could change in the future.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## What is bioinformatics? ##
+Bioinformatics is at the interface between biology and informatics. 
+It is an interdisciplinary field that develops and uses tools (methods and software) for understanding and analysing biological data.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Why join us on the mailing list? ##
+E-Mails allows fast communication.
+It is a very convenient way to interract from anywhere on the planet, at (almost) no costs, while keeping archive easily.
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Why join us during our events? ##
+Life without interractions would be sad.
