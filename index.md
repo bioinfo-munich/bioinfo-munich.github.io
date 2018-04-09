@@ -7,9 +7,17 @@ order: 1
 * [Home](/index)
 * [About](/about)
 
+Welcome to the small community of bioinformatic life in Munich. You will also find here articles, events, tips...
 
-On this website, you will mainly find some news about bioinformatic life in Munich.
-But bioinformatics has no limits, and therefore you will also find here articles, events, tips...
+We organize meetup regularly to share knowledge, new ideas and help to promote a growing community
+in Munich.
+
+It is important that the members try to present the things they are doing, helping people from other
+fields to get into the state of art and get feedback from people with different academic
+backgrounds.
+
+We hope this small community will help with promoting interdisciplinary research atmosphere in
+Munich! 
 
 ## Mailing list ##
 Our mailing list is now open, and you can 
