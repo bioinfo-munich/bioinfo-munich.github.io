@@ -2,9 +2,12 @@
 layout: default
 title: About
 permalink: /about/
+order: 2
 ---
 
-| [Home](/index) | [About](/about) |
+* [Home](/index)
+* [About](/about)
+
 
 ## Who are we? ##
 We are just normal people, trust me.
