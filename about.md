@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+| [Home](/index) | [About](/about) |
+
 ## Who are we? ##
 We are just normal people, trust me.
 We come from different backgroud that include biology, math, informatics, software development and a lot of other fields.

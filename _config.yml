@@ -23,7 +23,7 @@ github_username:  bioinfo-munich
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker #jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
