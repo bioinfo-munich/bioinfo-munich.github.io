@@ -1,15 +1,14 @@
 ---
 layout: default
-title: "Registration"
-order: 1
+title: "Home"
+permalink: /index/
 ---
 
-* [Home](/index)
-* [About](/about)
+{% include nav.html nav=site.data.menu %}
 
-Welcome to the growing community of bioinformaticians in Munich.
+## Bioinfo-Munich community ##
 
-We organize meetup regularly to
+Welcome to the growing community of bioinformaticians in Munich. Our goal is to:
 * Organize a community in Munich
 * Promote interdisciplinary research
 * Start some projets together
@@ -35,3 +34,5 @@ Procedure:
 Once registration is completed, you can post a message to everyone writing to the <bioinfo@lists.lrz.de>
 
 In case of question, contact the owner at: <bioinfo-owner@lists.lrz.de>
+
+{% include footer.html %}

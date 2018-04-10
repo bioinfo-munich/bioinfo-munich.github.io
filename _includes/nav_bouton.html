@@ -1,0 +1,5 @@
+{% assign navurl = page.url %}
+
+| {% for item in include.nav %}
+<a class="btn" href="{{item.url}}">{% if item.url == navurl %}<b>{{item.text}}</b>{% else %}{{item.text}}{% endif %}</a>
+| {% if item.subitems and navurl contains item.url %}{% include nav.html nav=item.subitems %}{% endif %}{% endfor %}

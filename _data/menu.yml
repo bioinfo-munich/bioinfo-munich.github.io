@@ -1,0 +1,7 @@
+# Edit manually. Rely on the 'permalink: /link/' on the pages header
+- text: Home
+  url: /index/
+- text: About
+  url: /about/
+- text: Posts
+  url: /posts/

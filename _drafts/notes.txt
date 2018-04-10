@@ -1,0 +1,13 @@
+
+		liquid
+	date 
+http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+
+
+		navigation
+	menu nav bar
+# Rely on the 'permalink: /link/' on the pages header
+https://stackoverflow.com/questions/25452429/excluding-page-from-jekyll-navigation-bar
+https://christianspecht.de/2014/06/18/building-a-pseudo-dynamic-tree-menu-with-jekyll/
+
+
