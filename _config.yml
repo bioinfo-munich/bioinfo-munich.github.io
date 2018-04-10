@@ -24,7 +24,7 @@ github_username:  bioinfo-munich
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker #jekyll-theme-minimal
-plugins:
+plugins_dir:
   - jekyll-feed
 
 # Exclude from processing.

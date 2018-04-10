@@ -7,27 +7,31 @@ order: 1
 * [Home](/index)
 * [About](/about)
 
-Welcome to the small community of bioinformatic life in Munich. You will also find here articles, events, tips...
+Welcome to the growing community of bioinformaticians in Munich.
 
-We organize meetup regularly to share knowledge, new ideas and help to promote a growing community
-in Munich.
+We organize meetup regularly to
+* Organize a community in Munich
+* Promote interdisciplinary research
+* Start some projets together
+* Share knowledge and ideas
+* Help each other
+* Have fun
 
-It is important that the members try to present the things they are doing, helping people from other
-fields to get into the state of art and get feedback from people with different academic
-backgrounds.
-
-We hope this small community will help with promoting interdisciplinary research atmosphere in
-Munich! 
 
 ## Mailing list ##
-Our mailing list is now open, and you can 
-**[register there](https://lists.lrz.de/mailman/listinfo/bioinfo)**
+Our mailing list is now open.
+
+You can register at **[this address](https://lists.lrz.de/mailman/listinfo/bioinfo)**
 
 Please read the basics rules before your registration.
-Confirmation e-mail may arrive in your spam box.
 
+Procedure:
+* Go to the webpage
+* Find the section "Subscribing to bioinfo"
+* Enter the required information (email, password...)
+* Click subscribe
+* Confirmation email will be send to you (check spambox)
 
-Once registration is completed, you can post a message to everyone writing to <bioinfo@lists.lrz.de>. Avoid _spam_ to avoid _ban_.
+Once registration is completed, you can post a message to everyone writing to the <bioinfo@lists.lrz.de>
 
 In case of question, contact the owner at: <bioinfo-owner@lists.lrz.de>
-
