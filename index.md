@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Home"
-permalink: /index/
 ---
 
 {% include nav.html nav=site.data.menu %}
