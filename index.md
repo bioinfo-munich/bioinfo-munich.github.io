@@ -35,4 +35,3 @@ Once registration is completed, you can post a message to everyone writing to th
 
 In case of question, contact the owner at: <bioinfo-owner@lists.lrz.de>
 
-{% include footer.html %}
